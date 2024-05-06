@@ -10,7 +10,7 @@ This is a robust full-stack web application built using MySQL, Java, Spring Boot
 - **Transaction Management**: Smooth transaction processing, including buying, selling, and payment management.
 - **Admin Dashboard**: Admin users have access to reports and statistics, allowing them to analyze user activity, sales, and other relevant data.
 - **Responsive Design**: HTML/CSS frontend ensures a responsive and visually appealing user interface across devices.
-- **Responsive Design**: HTML/CSS frontend ensures a responsive and visually appealing user interface across devices.
+
 
 ### Technologies Used:
 - **Backend**: Java with Spring Boot framework handles the server-side logic, providing a scalable and efficient backend architecture.
