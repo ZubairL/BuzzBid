@@ -1,4 +1,4 @@
-## Full-Stack Web Application for Buying and Selling Items
+## Full-Stack Web Application for Buying, Listing and Selling Items
 
 This is a robust full-stack web application built using MySQL, Java, Spring Boot, and HTML/CSS. The application enables users to buy, sell, and list items seamlessly, providing a user-friendly platform for online transactions.
 
@@ -6,7 +6,10 @@ This is a robust full-stack web application built using MySQL, Java, Spring Boot
 - **User Authentication**: Secure user authentication system ensures only authorized users can access the platform.
 - **Product Listings**: Users can list items they want to sell, providing detailed information and images.
 - **Search and Filter**: Seamless search and filtering functionalities help users find products quickly based on their preferences.
+- **Rating System**: Users can rate products, providing valuable feedback and enhancing community engagement.
 - **Transaction Management**: Smooth transaction processing, including buying, selling, and payment management.
+- **Admin Dashboard**: Admin users have access to reports and statistics, allowing them to analyze user activity, sales, and other relevant data.
+- **Responsive Design**: HTML/CSS frontend ensures a responsive and visually appealing user interface across devices.
 - **Responsive Design**: HTML/CSS frontend ensures a responsive and visually appealing user interface across devices.
 
 ### Technologies Used:
